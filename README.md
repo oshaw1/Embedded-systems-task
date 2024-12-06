@@ -9,4 +9,4 @@ I also developed a security system using a camera connected to the Raspberry Pi,
 
 Throughout the module, I learned how to interface with a wide range of hardware components and sensors, as well as how to write code to control those devices. I also gained experience working with the Raspberry Pi and understanding the capabilities and limitations of the platform. It was a challenging but rewarding module that allowed me to apply my knowledge of programming and embedded systems to real-world projects.
 
-Note: This is an example of only a couple of tasks
+Note: This is an example of only a couple of tasks and I only have access to images as my university was strangely strict with sshing into the rpis
